@@ -1,10 +1,10 @@
-package com.trabalhojava.locadora;
+package com.example.locadorafilmes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LocadoraApplicationTests {
+class LocadorafilmesApplicationTests {
 
 	@Test
 	void contextLoads() {

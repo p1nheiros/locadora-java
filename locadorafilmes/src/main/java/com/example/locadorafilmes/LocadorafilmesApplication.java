@@ -1,13 +1,13 @@
-package com.trabalhojava.locadora;
+package com.example.locadorafilmes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LocadoraApplication {
+public class LocadorafilmesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LocadoraApplication.class, args);
+		SpringApplication.run(LocadorafilmesApplication.class, args);
 	}
 
 }
